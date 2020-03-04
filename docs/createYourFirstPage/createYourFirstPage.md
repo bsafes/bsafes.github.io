@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
-nav_order: 1000
+title: Create Your First Page 
+has_children: false 
+nav_order: 60 
 ---
 
-is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

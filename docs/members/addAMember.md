@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Step 1 
-parent: Getting Started 
-nav_order: 1
+title: Add a Member 
+parent: Members 
+nav_order: 10 
 ---
 
 
@@ -29,7 +29,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz
 {: .fs-5 .ls-10 .code-example }
 
-For monospace type, like code snippets or the `<pre>` element, Just the Docs uses a native system font stack for monospace fonts:
+Ruby For monospace type, like code snippets or the `<pre>` element, Just the Docs uses a native system font stack for monospace fonts:
 
 ```scss
 "SFMono-Regular", Menlo, Consolas, Monospace

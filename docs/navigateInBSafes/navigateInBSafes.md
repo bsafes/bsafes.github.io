@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Getting Started 
-has_children: true
-nav_order: 2
+title: Navigate in BSafes 
+has_children: false 
+nav_order: 90 
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
