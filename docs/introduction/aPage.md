@@ -26,4 +26,5 @@ Every page update creates a new page version, you could always see what it is li
 
 ## Encrypted Data Snippet
 ![](https://statics.bsafes.com/encryptedDataSnippet.png)
+
 You could see your encrypted data snippet by clicking on the len in lower left corner of a page.
