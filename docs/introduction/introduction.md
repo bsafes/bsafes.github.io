@@ -15,6 +15,8 @@ nav_order: 1
 
 ### What is BSafes?
 BSafes is a secure note taking system with end-to-end encryption, for teams and individuals.
+### There are already many note taking apps, why BSafes?
+BSafes is designed from ground up for data security and team collaboration. It also solves usability problems found in other applications, such as not being able to open multiple pages at the same time, as well as limitations in organizing notes.
 ### Who should use BSafes?
 People who need to protect their data privacy and security. For expmples, a lawyer who protects clients, a doctor who cares about patients, or a jouranlist who reports the truth. 
 ### Why using BSafes?
