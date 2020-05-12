@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Add a Team 
-parent: Teams 
-nav_order: 10 
+title: Create A Team 
+parent: Get Started 
+nav_order: 50
 ---
 
-# Add a team 
+# Create a team 
 {: .no_toc }
 
 ![](https://statics.bsafes.com/samplePage.png)
+
 
 

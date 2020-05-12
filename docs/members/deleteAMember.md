@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Team Workspace 
-parent: Teams 
-nav_order: 20 
+title: Delete a Member 
+parent: Members 
+nav_order: 10 
 ---
 
-# Team workspace 
+
+# Delete a member 
 {: .no_toc }
+
+---
 
 ![](https://statics.bsafes.com/samplePage.png)
