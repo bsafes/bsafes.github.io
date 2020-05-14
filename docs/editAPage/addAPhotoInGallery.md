@@ -5,42 +5,14 @@ parent: Edit a Page
 nav_order: 60
 ---
 
+# Add a photo in gallery
 
-# Typography
-{: .no_toc }
+Under content, you could create a gallery of images.
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-## Font stack
-
-By default, Just the Docs uses a native system font stack for sans-serif fonts:
-
-```scss
--apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif
-```
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .code-example }
-
-Ruby For monospace type, like code snippets or the `<pre>` element, Just the Docs uses a native system font stack for monospace fonts:
-
-```scss
-"SFMono-Regular", Menlo, Consolas, Monospace
-```
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .text-mono .code-example }
-
----
-
-## Responsive type scale
-
-Just the Docs uses a responsive type scale that shifts depending on the viewport size.
+1. Click image button.
+2. Select images(jpgs, pngs) to upload.
+3. Images are encrypted, uploaded, and displayed.
+4. Click any image, you would have a gallery view.
+5. In the bottom left, click black len button, you could see encrypted data snippet.
+ 
+#### You may add up to 10 images in a gallery, it depends on your device memory.

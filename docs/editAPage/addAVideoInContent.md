@@ -5,42 +5,12 @@ parent: Edit a Page
 nav_order: 50
 ---
 
+# Add a video in content
 
-# Typography
-{: .no_toc }
+1. In rich-text editor menu, click video button.
+2. Select upload.
+3. Select a MP4 video(< 50MB) to upload.
+4. The video is encrypted, uploaded, and displayed.
+5. You could adjust the display of the video.
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-## Font stack
-
-By default, Just the Docs uses a native system font stack for sans-serif fonts:
-
-```scss
--apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif
-```
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .code-example }
-
-Ruby For monospace type, like code snippets or the `<pre>` element, Just the Docs uses a native system font stack for monospace fonts:
-
-```scss
-"SFMono-Regular", Menlo, Consolas, Monospace
-```
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .text-mono .code-example }
-
----
-
-## Responsive type scale
-
-Just the Docs uses a responsive type scale that shifts depending on the viewport size.
+#### For larger videos(> 50MB), please attach in the bottom of a page.

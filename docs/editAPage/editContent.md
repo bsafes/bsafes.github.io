@@ -5,42 +5,15 @@ parent: Edit a Page
 nav_order: 30
 ---
 
+# Edit content
 
-# Typography
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-## Font stack
-
-By default, Just the Docs uses a native system font stack for sans-serif fonts:
-
-```scss
--apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif
-```
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .code-example }
-
-Ruby For monospace type, like code snippets or the `<pre>` element, Just the Docs uses a native system font stack for monospace fonts:
-
-```scss
-"SFMono-Regular", Menlo, Consolas, Monospace
-```
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .text-mono .code-example }
-
----
-
-## Responsive type scale
-
-Just the Docs uses a responsive type scale that shifts depending on the viewport size.
+1. In the lower right, click blue pen button.
+2. On top of content area, a rich-text editor menu is displayed for you to
+ - write;
+ - add images;
+ - add videos;
+ - add tables; and
+ - format your article.
+3. In lower right, click green tick button to save content.
+4. Your content is encrypted and saved.
+5. In lower left, you could click black len button to view encrypted data snippet.

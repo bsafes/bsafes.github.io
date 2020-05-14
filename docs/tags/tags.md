@@ -4,42 +4,17 @@ title: Tags
 nav_order: 70
 ---
 
+# Tags
 
-# Typography
-{: .no_toc }
+Tags allow you to search for specific items easily in a workspace. You could add tags to any types of items.
 
-## Table of contents
-{: .no_toc .text-delta }
+#### On a page
 
-1. TOC
-{:toc}
+1. In the upper left of a page, click +.
+2. Type the tag name, press Enter on keyboard.
+3. You could add more tags.
+4. Click tick button.
+5. Later, you could search for an item by tags.
 
----
+#### Similarly, you could add tags to notebooks, diaries, boxes, and folders.
 
-## Font stack
-
-By default, Just the Docs uses a native system font stack for sans-serif fonts:
-
-```scss
--apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif
-```
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .code-example }
-
-Ruby For monospace type, like code snippets or the `<pre>` element, Just the Docs uses a native system font stack for monospace fonts:
-
-```scss
-"SFMono-Regular", Menlo, Consolas, Monospace
-```
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .text-mono .code-example }
-
----
-
-## Responsive type scale
-
-Just the Docs uses a responsive type scale that shifts depending on the viewport size.

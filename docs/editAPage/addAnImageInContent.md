@@ -5,42 +5,15 @@ parent: Edit a Page
 nav_order: 40
 ---
 
+# Add an image in content
 
-# Typography
-{: .no_toc }
+1. In rich-text editor menu, select the image button.
+2. Click Drop image.
+3. Select an image in file browser.
+4. The image is encrypted ,uploaded, and displayed.
+5. You could adjust the dimension of the image.
 
-## Table of contents
-{: .no_toc .text-delta }
+#### Drag and drop
 
-1. TOC
-{:toc}
+1. You could drag and drop an image inside the editor. 
 
----
-
-## Font stack
-
-By default, Just the Docs uses a native system font stack for sans-serif fonts:
-
-```scss
--apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif
-```
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .code-example }
-
-Ruby For monospace type, like code snippets or the `<pre>` element, Just the Docs uses a native system font stack for monospace fonts:
-
-```scss
-"SFMono-Regular", Menlo, Consolas, Monospace
-```
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .text-mono .code-example }
-
----
-
-## Responsive type scale
-
-Just the Docs uses a responsive type scale that shifts depending on the viewport size.

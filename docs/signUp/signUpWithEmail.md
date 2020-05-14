@@ -2,45 +2,18 @@
 layout: page
 title: Sign Up with Email 
 parent: Sign Up 
-nav_order: 20
+nav_order: 10
 ---
 
+# Sign up with Email
 
-# Typography
-{: .no_toc }
+1. On a browser, open www.bsafes.com.
+2. In the upper right, click SIGN IN.
+3. In the bottom, click Sign Up.
+4. Enter your email address.
+5. Check your email for a verification code. If not found in inbox, please check spam folder.
+6. Enter the verification code, click VERIFY.
+7. Enter your name, password, and retype password. Click SEND.
+8. Proceed to Set Up Your Key.
 
-## Table of contents
-{: .no_toc .text-delta }
 
-1. TOC
-{:toc}
-
----
-
-## Font stack
-
-By default, Just the Docs uses a native system font stack for sans-serif fonts:
-
-```scss
--apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif
-```
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .code-example }
-
-Ruby For monospace type, like code snippets or the `<pre>` element, Just the Docs uses a native system font stack for monospace fonts:
-
-```scss
-"SFMono-Regular", Menlo, Consolas, Monospace
-```
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .text-mono .code-example }
-
----
-
-## Responsive type scale
-
-Just the Docs uses a responsive type scale that shifts depending on the viewport size.
