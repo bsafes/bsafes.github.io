@@ -13,7 +13,7 @@ nav_order: 76
 1. TOC
 {:toc}
 
-A Folder is a collection of pages that you could order according to your needs. It also has a cover page, and a contents page.
+A Folder is a collection of pages. You could arrange the positions of pages. It also has a cover page, and a contents page.
 
 ## Create a folder 
 In a personal or team workspace.
@@ -35,9 +35,9 @@ In a personal or team workspace.
 
 ## Contents
 Contents page list all pages in a folder. 
-1. In the toolbar, click 3-bar list icon.
+1. In the toolbar, click the 3-bar list icon.
 2. Click blue + button to add a new page.
-3. You could add a page before or after a page.
+3. You could add a page before or after another page.
 	- In the right of a page item, click + button; and
 	- Select Add before or Add after. 
 4. You could move or trash selected pages.
@@ -45,7 +45,7 @@ Contents page list all pages in a folder.
 	- Select Move or Trash on bottom toolbar.
 
 ## Toolbar
-The toolbar is located on top of a page, you could go to a specific date or search inside a diary. From left to right.
+The toolbar is located on top of a page. From left to right.
 1. Go to cover page.
 2. Go to contents page.
 3. Go to first page.
@@ -60,4 +60,5 @@ The toolbar is located on top of a page, you could go to a specific date or sear
 2. In the right of toolbar, click on search button.
 3. Search bar is displyed below.
 4. Enter keywords, click search button.
-5. Those pages whose tags or title contain the keywords would be returned.  
+5. You would see those pages whose tags or title match your keywords.
+  

@@ -56,4 +56,4 @@ Contents page list all pages in a month, each with day and title.
 2. In the right of toolbar, click on search button.
 3. Search bar is displyed below.
 4. Enter keywords, click search button.
-5. Those pages whose tags or title contain the keywords would be returned.  
+5. You would see those pages whose tags or title match your keywords.  
